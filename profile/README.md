@@ -12,7 +12,9 @@ Check out Website :  [Online Car Rental System](https://crs-cdac-project.firebas
 # Customer Side
 
 ### Data Flow Diagram:
-![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/94923a7a-92fd-4f50-9187-f6a702ba4db4)
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/.github/assets/112746559/38a93931-a655-472c-9dff-0eda7c0982e6)
+
+<!-- ![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/94923a7a-92fd-4f50-9187-f6a702ba4db4) -->
 
 ### Home Page
 ![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/4d3debf5-14b3-4d0b-b65c-5f0c63ba81fb)
